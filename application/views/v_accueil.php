@@ -7,7 +7,7 @@
 			
 			<div>
 				<p>
-					Constituez votre panier en navigant, puis cliquez sur "Commander"
+					Constituez votre panier en navigant, puis cliquez sur "Commander" OUi
 				</p>
 			</div>
 		</section>
